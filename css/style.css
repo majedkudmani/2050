@@ -2,7 +2,6 @@
 .mynav {
     font-size: 18px;
     font-weight: 700;
-    text-transform: capitalize;
     background-color: #4741af
 }
 
@@ -15,15 +14,19 @@
     border-radius: 10px;
 }
 
-.myh1{  
+.text-1{  
     font-size: 72px;
     line-height: 1.23;
     font-weight: 700;
-    padding-bottom: 20px;
-    margin-bottom: 5rem;
-    box-sizing: border-box;
+    
 }
-.mybtn { background-color:   #6c63ff;
+.text-p1{
+    font-size: 24px;
+    font-weight: 400;
+font-family: 'Poppins', sans-serif ;
+}
+
+    .mybtn { background-color:   #6c63ff;
 font-size: 18px;
 padding: 12px 58px;
 font-weight: 600;
@@ -39,4 +42,46 @@ color: #fff;
     font-weight: 700;
     text-decoration: none;
     color: black;
+}
+.img-round-background{  background-color: rgb(243, 249, 251);
+    border-radius: 50%;
+    
+}
+.img-round-background img {
+margin-top: -100px;
+}
+.service-title{
+    font-weight: 700;
+font-size: 21px;
+}
+.service-icon{
+    background-color: #6c63ff;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.mycard:hover .service-icon{
+    margin-left: 30px;
+}  
+.mybackground2{
+background-color: rgb(243, 249, 251);
+} 
+.text-p{ font-size: 18px;
+    font-weight: 400;
+}
+.text-subtitle{
+    color: #6c63ff;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif ;
+
+}
+.text-title{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif ;
+
+}
+.myborder{
+    border-bottom: 3px solid  #6c63ff;
 }
