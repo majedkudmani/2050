@@ -1,15 +1,17 @@
 
 .mynav {
+    
     font-size: 18px;
     font-weight: 700;
-    background-color: #4741af
+    background-color: #4741af 
 }
-
-.navbar {
-    height: 9ch;
-    background-color: #4741af
+.navbar{
+    background-color: #4741af;
+    font-weight: 700;
+    font-size: 18px;
+    height: 50px;
+    padding: 56px;
 }
-
 .myimg {
     border-radius: 10px;
 }
@@ -26,14 +28,19 @@
 font-family: 'Poppins', sans-serif ;
 }
 
-    .mybtn { background-color:   #6c63ff;
+.banner-btn {  background-color: #6c63ff;
 font-size: 18px;
 padding: 12px 58px;
-font-weight: 600;
-border: 1px solid #6c63ff;
+font-weight: 700;
+border-radius: 35px;
 box-shadow: 0px 5px 15px 0px rgba(8, 0, 140, 0.19);
-color: #fff;
+color: white;
     margin-top: 25px;
+    text-decoration: none;
+}
+.banner-btn :hover {
+color: #6c63ff;
+background-color: #ffffff;
 }
 .img-lift{margin-left: -266px;
 }
