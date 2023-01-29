@@ -1,2 +1,2 @@
 # Projeckt-2050
-![Uploading Screenshot 2023-01-29 at 19-57-34 Projeckt 2050.png…]()
+file:///C:/Users/majed/Downloads/Screenshot%202023-01-29%20at%2019-57-34%20Projeckt%202050.png
